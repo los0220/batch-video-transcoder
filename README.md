@@ -70,6 +70,8 @@ I used `gyan.dev` Windows build avaiable through `winget`, which is recommended 
 winget install Gyan.FFmpeg
 ```
 
-## Licence 
+## License 
 
 GNU General Public License v3.0 or later
+
+See [LICENSE](./LICENSE) to see full text
